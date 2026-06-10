@@ -60,7 +60,7 @@ While standard cartridges and reproductions exhibit similar power profiles — f
 **PRG board top**
 ![](/Pictures/Xenocrisis_PRG_top.JPG)
 
-PCM2 is an ALTERA MAX EPM3256ATC144-10N ([ALTERA MAX 3000A family](/Datasheets/ALTERA_MAX_3000A.pdf)). P1 is a [Macronix 2 MBytes Flash memory](/Datasheets/Macronix%20MX29F1615PC-10.pdf) and V2 is a [ST 16 MBytes Flash Flash memory](/Datasheets/ST%20M59PW1282.PDF). KM23C3200 refers to a 4 MBytes maskROM. MX23C3210 refers to another [Macronix 4 MBytes maskROM](/Macronix%20MX23C3210.pdf).
+PCM2 is an ALTERA MAX EPM3256ATC144-10N ([ALTERA MAX 3000A family](/Datasheets/ALTERA_MAX_3000A.pdf)). P1 is a [Macronix 2 MBytes Flash memory](/Datasheets/Macronix%20MX29F1615PC-10.pdf) and V2 is a [ST 16 MBytes Flash memory](/Datasheets/ST%20M59PW1282.PDF). KM23C3200 refers to a 4 MBytes maskROM. MX23C3210 refers to another [Macronix 4 MBytes maskROM](/Macronix%20MX23C3210.pdf).
 
 **PRG board bottom**
 ![](/Pictures/Xenocrisis_PRG_bottom.JPG)
@@ -86,7 +86,7 @@ NEO 273 is an ALTERA MAX EPM7128STC100-15 ([ALTERA MAX 7000 family](/Datasheets/
 **PRG board top**
 ![](/Pictures/Metal_Slug5_PRG_top.JPG)
 
-PCM2 is an ALTERA MAX EPM3256ATC144-10N ([ALTERA MAX 3000A family](/Datasheets/ALTERA_MAX_3000A.pdf)). P1 is a [Macronix 1 MBytes Flash memory](/Datasheets/Macronix%20MX27C8100.PDF). V2 is a [ST 16 MBytes Flash Flash memory](/Datasheets/ST%20M59PW1282.PDF). P2 is a [ST 4 MBytes Flash memory](/Datasheets/ST%20M27C322.PDF). KM23C3200 refers to a 4 MBytes maskROM. MX23C3210 refers to another [Macronix 4 MBytes maskROM](/Macronix%20MX23C3210.pdf).
+PCM2 is an ALTERA MAX EPM3256ATC144-10N ([ALTERA MAX 3000A family](/Datasheets/ALTERA_MAX_3000A.pdf)). P1 is a [Macronix 1 MBytes Flash memory](/Datasheets/Macronix%20MX27C8100.PDF). V2 is a [ST 16 MBytes Flash memory](/Datasheets/ST%20M59PW1282.PDF). P2 is a [ST 4 MBytes Flash memory](/Datasheets/ST%20M27C322.PDF). KM23C3200 refers to a 4 MBytes maskROM. MX23C3210 refers to another [Macronix 4 MBytes maskROM](/Macronix%20MX23C3210.pdf).
 
 **PRG board bottom**
 ![](/Pictures/Metal_Slug5_PRG_bottom.JPG)
@@ -165,7 +165,7 @@ NEO 273 is an ALTERA MAX EPM7128STC100-7 ([ALTERA MAX 7000 family](/Datasheets/A
 **PRG board top**
 ![](/Pictures/Magician_Lord_PRG_top.JPG)
 
-PCM is an ALTERA MAX EPM7128STC100-6 ([ALTERA MAX 7000 family](/Datasheets/ALTERA_MAX_7000.pdf)). The PRG board uses [Macronix 2 MBytes Flash Flash memory](/Datasheets/Macronix%20MX29F1615PC-10.pdf) for V1, V2 and P1. There is enough room on P1 to [cram the two sets](https://www.youtube.com/watch?v=kXWZlWuGljk) of program ROMS of this game with a switch. The double slots for P1 and V1 / V2 are probably meant to populate the board with whatever SOP-44, 5V tolerant 2MBytes or more flash memory chips (I do not find any possible reference though).
+PCM is an ALTERA MAX EPM7128STC100-6 ([ALTERA MAX 7000 family](/Datasheets/ALTERA_MAX_7000.pdf)). The PRG board uses [Macronix 2 MBytes Flash memory](/Datasheets/Macronix%20MX29F1615PC-10.pdf) for V1, V2 and P1. There is enough room on P1 to [cram the two sets](https://www.youtube.com/watch?v=kXWZlWuGljk) of program ROMS of this game with a switch. The double slots for P1 and V1 / V2 are probably meant to populate the board with whatever SOP-44, 5V tolerant 2MBytes or more flash memory chips (I do not find any possible reference though).
 
 **PRG board bottom**
 ![](/Pictures/Magician_Lord_PRG_bottom.JPG)
@@ -173,7 +173,7 @@ PCM is an ALTERA MAX EPM7128STC100-6 ([ALTERA MAX 7000 family](/Datasheets/ALTER
 **CHA board top**
 ![](/Pictures/Magician_Lord_CHA_top.JPG)
 
-CPLD is an ALTERA MAX (no marking on PCB) EPM7128STC100-6 ([ALTERA MAX 7000 family](/Datasheets/ALTERA_MAX_7000.pdf)). The CHA board uses [Macronix 2 MBytes Flash Flash memory](/Datasheets/Macronix%20MX29F1615PC-10.pdf) for C1 and C2, and [Winbond 128 kBytes Flash memory](/Datasheets/Winbond%20W27C010.PDF) for M1 and S1.
+CPLD is an ALTERA MAX (no marking on PCB) EPM7128STC100-6 ([ALTERA MAX 7000 family](/Datasheets/ALTERA_MAX_7000.pdf)). The CHA board uses [Macronix 2 MBytes Flash memory](/Datasheets/Macronix%20MX29F1615PC-10.pdf) for C1 and C2, and [Winbond 128 kBytes Flash memory](/Datasheets/Winbond%20W27C010.PDF) for M1 and S1.
 
 **CHA board bottom**
 ![](/Pictures/Magician_Lord_CHA_bottom.JPG)
@@ -222,7 +222,7 @@ Some ceramic decoupling caps were missing, without any pattern, then populated b
 
 The white sticker on the F0095H0 indicates a chip refurbished from a pachinslot based on [Seibu Keisatsu](https://en.wikipedia.org/wiki/Seibu_Keisatsu) theme, containing "effects/cutscene data 2", from [NewGin Company](https://en.wikipedia.org/wiki/NewGin). The show was popular in 2004, so the chip is probably about 20 years old.
 
-U2 is another ([ALTERA MAX 3000](/Datasheets/ALTERA_MAX_3000A.pdf)) with marking EPM3256ATC144-10N. S1 is a beefy [Macronix 32 MBytes Flash Flash memory](/Datasheets/Macronix%20MX29GL256F.pdf). M1 is a Micron Technology 64 MBytes Parallel NOR Flash memory chip, similar to a [Macronix MX29GLXXX series](/Datasheets/Migrate%20M29EW%20to%20Macronix%20MX29GL_F.pdf). Basically manufacturer just took the e-waste available on shelves.
+U2 is another ([ALTERA MAX 3000](/Datasheets/ALTERA_MAX_3000A.pdf)) with marking EPM3256ATC144-10N. S1 is a beefy [Macronix 32 MBytes Flash memory](/Datasheets/Macronix%20MX29GL256F.pdf). M1 is a Micron Technology 64 MBytes Parallel NOR Flash memory chip, similar to a [Macronix MX29GLXXX series](/Datasheets/Migrate%20M29EW%20to%20Macronix%20MX29GL_F.pdf). Basically manufacturer just took the e-waste available on shelves.
 
 **CHA board bottom**
 ![](/Pictures/161in1v2_CHA_bottom.JPG)
