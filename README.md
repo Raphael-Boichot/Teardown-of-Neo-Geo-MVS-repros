@@ -165,7 +165,7 @@ NEO 273 is an ALTERA MAX EPM7128STC100-7 ([ALTERA MAX 7000 family](/Datasheets/A
 **PRG board top**
 ![](/Pictures/Magician_Lord_PRG_top.JPG)
 
-PCM is an ALTERA MAX EPM7128STC100-6 ([ALTERA MAX 7000 family](/Datasheets/ALTERA_MAX_7000.pdf)). The PRG board uses [Macronix 2 MBytes Flash memory](/Datasheets/Macronix%20MX29F1615PC-10.pdf) for V1, V2 and P1. There is enough room on P1 to [cram the two sets](https://www.youtube.com/watch?v=kXWZlWuGljk) of program ROMS of this game with a switch. The double slots for P1 and V1 / V2 are probably meant to populate the board with whatever SOP-44, 5V tolerant 2MBytes or more flash memory chips (I do not find any possible reference though).
+PCM is an ALTERA MAX EPM7128STC100-6 ([ALTERA MAX 7000 family](/Datasheets/ALTERA_MAX_7000.pdf)). The PRG board uses [Macronix 2 MBytes Flash memory](/Datasheets/Macronix%20MX29F1615PC-10.pdf) for V1, V2 and P1. There is enough room on P1 to [cram the two sets](https://www.youtube.com/watch?v=kXWZlWuGljk) of program ROMS of this game with a switch. The double slots for P1 and V1 / V2 are probably meant to populate the board with whatever SOP-44, 5V tolerant 2MBytes or more flash memory chips (I do not find any possible reference though). Marking [below P1](/Magician_Lord_hacks/Hacking_Magician_Lord_01.jpg) is TC5316200, which is the [mask ROM counterpart](/Datasheets/Toshiba%20TC5316200.pdf).
 
 **PRG board bottom**
 ![](/Pictures/Magician_Lord_PRG_bottom.JPG)
@@ -173,7 +173,7 @@ PCM is an ALTERA MAX EPM7128STC100-6 ([ALTERA MAX 7000 family](/Datasheets/ALTER
 **CHA board top**
 ![](/Pictures/Magician_Lord_CHA_top.JPG)
 
-CPLD is an ALTERA MAX (no marking on PCB) EPM7128STC100-6 ([ALTERA MAX 7000 family](/Datasheets/ALTERA_MAX_7000.pdf)). The CHA board uses [Macronix 2 MBytes Flash memory](/Datasheets/Macronix%20MX29F1615PC-10.pdf) for C1 and C2, and [Winbond 128 kBytes Flash memory](/Datasheets/Winbond%20W27C010.PDF) for M1 and S1.
+CPLD is an ALTERA MAX (no marking on PCB) EPM7128STC100-6 ([ALTERA MAX 7000 family](/Datasheets/ALTERA_MAX_7000.pdf)). The CHA board uses [Macronix 2 MBytes Flash memory](/Datasheets/Macronix%20MX29F1615PC-10.pdf) for C1 and C2, and [Winbond 128 kBytes Flash memory](/Datasheets/Winbond%20W27C010.PDF) for M1 and S1. Marking [below S1](/Magician_Lord_hacks/Hacking_Magician_Lord_01.jpg) is TC531001, which is the [mask ROM counterpart](/Datasheets/Toshiba%20TC531001.pdf).
 
 **CHA board bottom**
 ![](/Pictures/Magician_Lord_CHA_bottom.JPG)
