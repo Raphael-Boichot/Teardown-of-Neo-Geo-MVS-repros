@@ -1,3 +1,7 @@
+# Hacking Magician Lord
+
+The idea: altering an original MVS cartridge of the game is a shame. On the other hand, Chinese repros are made for that !
+
 ## Step 1: removing some annoying chips with the good equipement
 
 Let's be honest: this step is a real pain. In any case, the desoldering gun is not enough and you will need desoldering wick and / or hot air station for the final step.
