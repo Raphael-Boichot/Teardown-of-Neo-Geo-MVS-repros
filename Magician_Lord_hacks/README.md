@@ -6,7 +6,7 @@ Let's be honest: this step is a real pain. In any case, the desoldering gun is n
 
 ## Step 2: reprogramming the P ROM ans S ROM chip with the good equipement
 
-I used a GQ4x4 programmer with adapter because I'm 100% sure it is compatible with the MX29F1615. See codes for how the bank are organized. The ACFH hack requires also desoldering the S ROM but the AES/MVS hack don't.
+I used a GQ4x4 programmer with adapter because I'm 100% sure it is compatible with the MX29F1615. See codes for how the bank are organized. The ACFH hack requires also desoldering / programming the S ROM but the AES/MVS hack don't.
 
 ![](/Magician_Lord_hacks/Hacking_Magician_Lord_02.jpg)
 
