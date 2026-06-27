@@ -11,6 +11,8 @@ I used a GQ4x4 programmer with adapter because I'm 100% sure it is compatible wi
 ![](/Magician_Lord_hacks/Hacking_Magician_Lord_02.jpg)
 
 ## Step 3: a cheap accessible bank selector
+
+I'm cheap and I know how to use a screwdriver: let's do the cheapest possible bank switcher. Of course, it works. Now you can experience the pain of the Set 1 version of Magician Lord and the ACFH hack!
+
 ![](/Magician_Lord_hacks/AES_MVS_hack.png)
 
-I'm cheap and I know how to use a screwdriver: let's do the cheapest possible bank switcher. Of course, it works.
