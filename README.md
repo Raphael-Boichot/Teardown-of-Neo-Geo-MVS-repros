@@ -121,7 +121,7 @@ PCM is a LATTICE LC4128ZE ([ispMACH 4000ZE Family](/Datasheets/Lattice_4000ZE_fa
 **CHA board top**
 ![](/Pictures/KOTM2_CHA_top.JPG)
 
-NEO 273 is an ALTERA MAX EPM7128STC100-7 ([ALTERA MAX 7000 family](/Datasheets/ALTERA_MAX_7000.pdf)). C5 and C6 are [ST 4 MBytes Flash memory](/Datasheets/ST%20M27C322.PDF). M1 and S1 are [Winbond 128 kBytes Flash memory](/Datasheets/Winbond%20W27C010.PDF).
+NEO 273 is an ALTERA MAX EPM7128STC100-7 ([ALTERA MAX 7000 family](/Datasheets/ALTERA_MAX_7000.pdf)). C5 and C6 are [ST 4 MBytes OTP (one time programmable) memory chips](/Datasheets/ST%20M27C322.PDF). M1 and S1 are [Winbond 128 kBytes Flash memory](/Datasheets/Winbond%20W27C010.PDF).
 
 **CHA board bottom**
 ![](/Pictures/KOTM2_CHA_bottom.JPG)
