@@ -211,7 +211,7 @@ The resistor ladders A103J, 9 pins (RP1, RP2, RP3) and the 470 µF electrolytic 
 
 U2 is a 8-bit [STC11F08XE](/Datasheets/STC11-10xx_Series_MCU.pdf) microcontroller. Function is unclear to me in the presence of 3 beefy ALTERA CPLDs.
 
-Each board has its own voltage regulator (AMS1117) capable to produce 1A each at 3.3V, much enough to power the whole set of chips. The cartridge itself consumes about 500 mA (at 5V), versus about 250 mA (at 5V) for a regular MVS cartridge. Nothing that’s going to fry your MVS slot but a noticeable increase anyway. 
+Each board has its own voltage regulator (AMS1117) capable to produce 1A each at 3.3V, much enough to power the whole set of chips. The cartridge itself consumes about 1200 mA (at 5V), versus about 500 mA (at 5V, on average) for a regular MVS cartridge. Nothing that’s going to fry your MVS slot as this noticeable increase of current is sucked directly on the 5V rail. To my knowledge, arcade power supplies are perfectly able to handles this.
 
 **PRG board bottom**
 ![](/Pictures/161in1v2_PRG_bottom.JPG)
