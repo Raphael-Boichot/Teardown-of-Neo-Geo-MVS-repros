@@ -1,5 +1,7 @@
 # Hacking Magician Lord
 
+Magician Lord is the only game not containing the AES and MVS versions in the same set. There is a debate to know which set is the AES or MVS but consensus is that set 1 is the AES (6 life points, restart from check points, with intro) and set 2 the MVS (4 life points, instant restart, no intro). This at least corresponds to AES cartridge I owned long ago. Anyway, bootlegs sold online are the set 2 which is considered as degraded version of set 1.
+
 The idea: 
 - Altering an original MVS cartridge of the game is a shame. On the other hand, Chinese repros are made for that !
 - The current version is the set 2 which is considered as a degraded coin muncher modification of the set 1 original design.
