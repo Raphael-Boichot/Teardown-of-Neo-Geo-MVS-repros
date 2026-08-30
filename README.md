@@ -183,7 +183,7 @@ CPLD is an ALTERA MAX (no marking on PCB) EPM7128STC100-6 ([ALTERA MAX 7000 fami
 
 I simply follow the guide proposed [here](https://www.neogeo-system.com/t6458-tuto-corriger-problemes-de-pcm-bruitages-satures-sur-conversion-mvs-mvs-ou-autres) which is derived from older guides to fix the 161-in-1 sound. Beware, the mod shown in the link has a pinout error so follow the [right pinout from neogeodev](https://wiki.neogeodev.org/index.php/MVS_cartridge_pinout) or the schematic here. I used  microscopic 0603 CMD ceramic capacitors because I like suffering. **This modification completely fixes any sound glitch with this bootleg!**
 
-**Modifying the cartridge to boot with Set1 or Set2 of the game**
+**Modifying the cartridge to boot with set 1 or set 2 of the game**
 ![](/Magician_Lord_hacks/AES_MVS_hack.png)
 
 Follow the [guide](/Magician_Lord_hacks/README.md). These cartridges are super easy to modify !
