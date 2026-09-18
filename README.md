@@ -2,7 +2,7 @@
 
 ## Disclaimer
 - I do not own these bootleg cartridges, because piracy is bad, very very bad. Don't do this.
-- Everything written here is for documentation only. You do whatever you want with it, not my concern. I did this for fun.
+- Everything written here is for documentation only. You do whatever you want with it, not my concern. I did this because this is precisely the kind of information I was searching on internet without finding it.
 - Any reuse of original content present here must be credited anyway (in other word, cite the source / author). It's not because it's about piracy that you can reuse content without credits.
 
 ## Summary
